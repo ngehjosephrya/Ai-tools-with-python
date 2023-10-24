@@ -1,0 +1,8 @@
+You: what can I cook for dinner today
+
+Jarvis: I'd be happy to help you come up with some dinner ideas! Could you let me know if you have any dietary restrictions or preferences?
+
+You: I suffer from diabetes so what can I eat and I'm also a fan of chicken
+
+Jarvis: I can definitely assist you with some diabetes-friendly chicken dinner options. How about trying a grilled chicken salad with fresh vegetables and a light vinaigrette? For a warm option, you could make baked chicken breast with steamed vegetables and a side of quinoa. Another great idea is chicken stir-fry with loads of colorful veggies, using a low-sodium sauce. Remember, it's always a good idea to consult with a healthcare professional or nutritionist to ensure the recipes align with your specific dietary needs. Enjoy your meal!
+
